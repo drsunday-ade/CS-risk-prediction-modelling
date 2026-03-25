@@ -1,0 +1,5 @@
+dataset,model,auc,brier,calibration_intercept,calibration_slope,mean_observed,mean_predicted
+Development,Base model,0.795,0.0473,0.000,1.433,5.39%,5.39%
+Validation,Base model,0.783,0.0441,-0.104,1.333,4.92%,5.41%
+Development,Full model,0.991,0.0045,0.000,1.614,5.39%,5.39%
+Validation,Full model,0.986,0.0045,-0.039,1.564,4.92%,4.98%

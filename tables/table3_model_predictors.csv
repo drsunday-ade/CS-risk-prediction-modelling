@@ -1,0 +1,25 @@
+Predictor,Adjusted OR (95% CI),p-value
+Maternal age (centered),0.95 (0.80 to 1.14),0.6019
+Maternal age squared,1.01 (0.99 to 1.02),0.3404
+Parity (centered),0.96 (0.55 to 1.68),0.8870
+Parity squared,0.98 (0.92 to 1.06),0.6626
+BMI (centered),0.93 (0.68 to 1.27),0.6454
+BMI squared,1.00 (0.98 to 1.02),0.8948
+BMI missing,0.66 (0.15 to 2.87),0.5827
+Education: No/primary,0.33 (0.03 to 3.72),0.3728
+Education: Secondary,0.32 (0.06 to 1.78),0.1920
+Wealth: Poor,1.47 (0.11 to 19.43),0.7678
+Wealth: Rich,1.14 (0.13 to 10.26),0.9095
+Residence: Urban,0.79 (0.14 to 4.37),0.7889
+Multiple gestation: Singleton,0.15 (0.02 to 1.46),0.1023
+Prior caesarean: Yes,14 084.77 (2 548.83 to 77 832.07),<0.0001
+Delivery sector: Private/other facility,32 101 236.62 (0.00 to Inf),0.9884
+Delivery sector: Public facility,18 720 429.82 (0.00 to Inf),0.9888
+ANC content score: 2-3 components,1.79 (0.00 to 1 053.83),0.8583
+ANC content score: 4 components,2.47 (0.01 to 940.69),0.7650
+Early ANC: Unknown,1.05 (0.00 to 1 085.20),0.9893
+Early ANC: Yes,0.99 (0.18 to 5.45),0.9950
+ANC 4 or more visits: Unknown,0.58 (0.01 to 44.68),0.8078
+ANC 4 or more visits: Yes,1.01 (0.09 to 11.28),0.9958
+Iron in pregnancy: Unknown,0.30 (0.00 to 75.98),0.6700
+Iron in pregnancy: Yes,1.14 (0.07 to 18.06),0.9283
